@@ -1,5 +1,4 @@
-//I am working on this assignment alone
-//only with this semester's material
+//Code Written by Jian Chen
 
 public class RBTree {
 	
